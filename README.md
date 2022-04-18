@@ -7,7 +7,7 @@
 > The Uranium project is one of the most ambitious projects for Minecraft and our goal is to make one of the best, most versatile shaders around, whilst maintaining an open source repository that will only grow more used and help us out in the long run in the creation of the shaders. These shaders will be 100% free and 100% open source **forver**.
 
 If you're a budding contributor to this project or just curious about everything that goes on, please feel free to:
-- Follow my Twitter: @contemplatinguy
+- Follow my [Twitter](https://twitter.com/contemplatinguy/) @contemplatinguy
 - Join my [Discord](https://www.discord.com/invite/yCUhtCDra5) 
 - Subscribe to my [YouTube Channel](https://www.youtube.com/channel/UCS_rqcpRfqAC_mQuPyatMV) (Be aware I also post gaming videos on there...)
 
