@@ -1,6 +1,5 @@
 ![visualstudio_code-card](https://user-images.githubusercontent.com/68227593/163826300-d5f8448b-632e-4b91-9ea9-9063d7951b7e.png)
 ![Atom_(text_editor)-Logo wine](https://user-images.githubusercontent.com/68227593/163825770-d22ebccb-ac8f-416a-bd74-058d31532603.png)
-![eclipse-logo](https://user-images.githubusercontent.com/68227593/163825898-823c0d65-7732-48fc-b161-98553850af1b.png)
 
 # Uranium Project
 
